@@ -15,26 +15,19 @@
 <title>SIG115</title>
 </head>
 <body>
-	<%@ include file="bar-menu.jsp" %> 
-        <div class="container">
+	<%@ include file="bar-menu.jsp" %>    
+    <div class="container">
     	<br>
-    	<p><h3>Eliminacion de un usuario</h3></p><br><br><br> 
+    	<p><h3>Reporte de clientes deudores</h3></p><br><br><br> 
     		<form action="#" method="post" class="form-horizontal">
     			<div class="form-group">
-    				<label for="nombre" class="control-label col-md-3 col-md-offset-1">Nombre:</label>
+    				<label for="nombre" class="control-label col-md-3 col-md-offset-1">Mostrar los primeros:</label>
     				<div class="col-md-4">
-		    			<select class="form-control" name="" id="tipo">
-		    				<option value="no">Seleccione uno...</option>
-		    				<option value="Usuario1">Usuario1</option>
-		    				<option value="Usuario2">Usuario2</option>
-		    				<option value="Usuario3">Usuario3</option>
-		    			</select>
-	    			</div>	    		
-    			</div>
-    			    			
-	    		<div class="form-group">
+    					<input class="form-control" id="nombre" type="text" placeholder="Escriba la cantidad de clientes">
+    				</div><br><br><br><br>
+    	 		<div class="form-group">
 	    			<div class="col-md-2 col-md-offset-4">
-	    				<button class="btn-primary">Ingresar</button>
+	    				<button class="btn-primary"><h4>Generar Reporte</h4></button>
 	    			</div>
 	    		</div>
     		</form>
