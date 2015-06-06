@@ -3,10 +3,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<script src="bootstrap/js/jquery-2.1.3.js"></script>
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/font-awesome-4.3.0/css/font-awesome.min.css">
+<script src="bootstrap/js/jquery-2.1.3.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/bootstrap.js"></script>
+<script src="bootstrap/js/npm.js"></script>
+<script src="bootstrap/js/jquery.validate.js"></script>
+<script src="bootstrap/js/dropdown.js"></script>
 <title>Insert title here</title>
 </head>
 <body>

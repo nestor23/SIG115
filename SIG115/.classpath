@@ -13,5 +13,14 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/hibernate-core-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/hibernate-entitymanager-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
